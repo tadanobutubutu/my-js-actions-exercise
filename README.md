@@ -2,6 +2,13 @@
 
 # 🎉 Congratulations tadanobutubutu! 🎉
 
+
+<!-- AUTO-PACKAGE-BADGES:START -->
+<!-- Auto-generated package badges -->
+
+![npm version](https://img.shields.io/npm/v/my-js-actions-exercise?style=flat-square&logo=npm&color=blue) ![npm downloads](https://img.shields.io/npm/dw/my-js-actions-exercise?style=flat-square&color=brightgreen) ![npm license](https://img.shields.io/npm/l/my-js-actions-exercise?style=flat-square) [![Deployed](https://img.shields.io/badge/deployed-1.0.0-blue?style=flat-square)](https://www.npmjs.com/package/my-js-actions-exercise)
+
+<!-- AUTO-PACKAGE-BADGES:END -->
 <img src="https://octodex.github.com/images/welcometocat.png" height="200px" />
 
 ### 🌟 You've successfully completed the exercise! 🌟
